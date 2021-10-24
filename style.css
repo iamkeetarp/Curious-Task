@@ -474,7 +474,7 @@ svg.error6{
 
 
 #arrow{
-    width: 80px;
+    width: 90px;
     height: 20px;
     background-color: #FFFFFF;
     margin: auto;
@@ -486,5 +486,7 @@ svg.error6{
 
 #arrow svg{
     margin: auto;
-    display: block;   
+    display: block; 
+    transform: scale(0.8);
+ 
 }
